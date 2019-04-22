@@ -8,6 +8,7 @@ Master Machine Learning with Python and R Languages (yet to be converted to ipyn
 
 Works on any size of dataset, gives
 informations about relevance of features
+
 2) Cons
 
 The Linear Regression Assumptions
@@ -17,6 +18,7 @@ The Linear Regression Assumptions
 
 Works on any size of dataset, works very
 well on non linear problems
+
 2) Cons
 
 Need to choose the right polynomial degree
@@ -27,6 +29,7 @@ for a good bias/variance tradeoff
 
 Easily adaptable, works very well on non
 linear problems, not biased by outliers
+
 2) Cons
 
 Compulsory to apply feature scaling, not
@@ -37,6 +40,7 @@ well known, more difficult to understand
 
 Interpretability, no need for feature scaling,
 works on both linear / nonlinear problems
+
 2) Cons
 
 Poor results on too small datasets,
@@ -47,6 +51,7 @@ overfitting can easily occur
 
 Powerful and accurate, good performance
 on many problems, including non linear
+
 2) Cons
 
 No interpretability, overfitting can easily
@@ -59,6 +64,7 @@ occur, need to choose the number of trees
 
 Probabilistic approach, gives informations
 about statistical significance of features 
+
 2) Cons
 
 The Logistic Regression Assumptions
@@ -76,6 +82,7 @@ Need to choose the number of neighbours k
 
 Performant, not biased by outliers,
 not sensitive to overfitting
+
 2) Cons
 
 Not appropriate for non linear problems, not
@@ -86,6 +93,7 @@ the best choice for large number of features
 
 High performance on nonlinear problems, not
 biased by outliers, not sensitive to overfitting
+
 2) Cons
 
 Not the best choice for large number of
@@ -96,6 +104,7 @@ features, more complex
 
 Efficient, not biased by outliers, works on
 nonlinear problems, probabilistic approach
+
 2) Cons
 
 Based on the assumption that features
@@ -106,6 +115,7 @@ have same statistical relevance
 
 Interpretability, no need for feature scaling,
 works on both linear / nonlinear problems
+
 2) Cons
 
 Poor results on too small datasets,
@@ -116,6 +126,7 @@ overfitting can easily occur
 
 Powerful and accurate, good performance on
 many problems, including non linear
+
 2) Cons
 
 No interpretability, overfitting can easily
@@ -129,6 +140,7 @@ occur, need to choose the number of trees
 Simple to understand, easily adaptable,
 works well on small or large datasets,
 fast, efficient and performant
+
 2) Cons
 
 Need to choose the number of clusters
@@ -139,6 +151,7 @@ Need to choose the number of clusters
 The optimal number of clusters can be
 obtained by the model itself, practical
 visualisation with the dendrogram
+
 2) Cons
 
 Not appropriate for large datasets
