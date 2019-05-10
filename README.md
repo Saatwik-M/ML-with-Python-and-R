@@ -57,7 +57,7 @@ on many problems, including non linear
 No interpretability, overfitting can easily
 occur, need to choose the number of trees
 
-#Classification
+# Classification
 
 ***Logistic Regression***
 1) Pros
