@@ -73,6 +73,7 @@ The Logistic Regression Assumptions
 1) Pros
 
 Simple to understand, fast and efficient 
+
 2) Cons
 
 Need to choose the number of neighbours k
